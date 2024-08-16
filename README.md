@@ -1,6 +1,6 @@
 # Kotar Downloader
 
-Kotar Downloader is a free open-source project made by a student from Pakistan (I ♡ 🇵🇰).
+Kotar Downloader is a free open-source project made by a student from 🇮🇱
 It is used the ~~copy~~ download books from the Kotar website.
 
 ## Requirements
@@ -14,3 +14,6 @@ First thing is to be able to access the desired Kotar Book from the Kotar websit
 3. Last step is to copy the code from [`kotar_downloader.js`](https://github.com/ItaiAviad/Kotar_Downloader/blob/main/kotar_downloader.js), paste it in the console and run it (press `Enter`).
 
 After you have completed all of the steps, an explorer will appear and ask you where to save the pdf file of the book. Choose a name for the pdf file and save it in the desired directory.
+
+## Notes
+For troubleshooting, see [Issues](https://github.com/ItaiAviad/Kotar_Downloader/issues).
